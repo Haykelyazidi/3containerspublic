@@ -57,7 +57,7 @@ volumes:
     driver_opts:
       o: bind
       type: none
-      device: /VOLUMES/db
+      device: /home/ec2-user/VOLUMES/db
   wp_statics:
     driver: local
     driver_opts:
