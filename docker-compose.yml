@@ -57,11 +57,11 @@ volumes:
     driver_opts:
       o: bind
       type: none
-      device: E:/DEVOPS/VOLUMES/db
+      device: /VOLUMES/db
   wp_statics:
     driver: local
     driver_opts:
       o: bind
       type: none
-      device: E:/DEVOPS/VOLUMES/web
+      device: /VOLUMES/web
 
