@@ -1,5 +1,5 @@
 #!/bin/bash
 
-chmod +x hay.sh
+chmod +x /home/ec2-user/hay.sh
 
 docker compose up -d
