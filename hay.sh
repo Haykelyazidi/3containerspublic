@@ -2,4 +2,4 @@
 
 chmod +x hay.sh
 
-docker-compose up -d
+docker compose up -d
