@@ -63,5 +63,5 @@ volumes:
     driver_opts:
       o: bind
       type: none
-      device: /VOLUMES/web
+      device: /home/ec2-user/VOLUMES/web
 
