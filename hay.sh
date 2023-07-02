@@ -1,5 +1,5 @@
 #!/bin/bash
 
-chmod +x docker-compose-up.sh
+chmod +x hay.sh
 
 docker-compose up -d
